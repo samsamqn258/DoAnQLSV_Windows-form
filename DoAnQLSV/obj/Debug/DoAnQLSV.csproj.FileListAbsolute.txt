@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Source\Repos\DoAnQLSV_Windows-form\DoAnQLSV\obj\Debug\DoAnQLSV.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\DoAnQLSV_Windows-form\DoAnQLSV\obj\Debug\DoAnQLSV.GUI.FrmSinhVien.resources
+C:\Users\Lenovo\Source\Repos\DoAnQLSV_Windows-form\DoAnQLSV\obj\Debug\DoAnQLSV.Properties.Resources.resources
+C:\Users\Lenovo\Source\Repos\DoAnQLSV_Windows-form\DoAnQLSV\obj\Debug\DoAnQLSV.csproj.GenerateResource.cache
+C:\Users\Lenovo\Source\Repos\DoAnQLSV_Windows-form\DoAnQLSV\obj\Debug\DoAnQLSV.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Source\Repos\DoAnQLSV_Windows-form\DoAnQLSV\bin\Debug\DoAnQLSV.exe.config
+C:\Users\Lenovo\Source\Repos\DoAnQLSV_Windows-form\DoAnQLSV\bin\Debug\DoAnQLSV.exe
+C:\Users\Lenovo\Source\Repos\DoAnQLSV_Windows-form\DoAnQLSV\bin\Debug\DoAnQLSV.pdb
+C:\Users\Lenovo\Source\Repos\DoAnQLSV_Windows-form\DoAnQLSV\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Source\Repos\DoAnQLSV_Windows-form\DoAnQLSV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Source\Repos\DoAnQLSV_Windows-form\DoAnQLSV\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Source\Repos\DoAnQLSV_Windows-form\DoAnQLSV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Source\Repos\DoAnQLSV_Windows-form\DoAnQLSV\obj\Debug\DoAnQLSV.csproj.CopyComplete
+C:\Users\Lenovo\Source\Repos\DoAnQLSV_Windows-form\DoAnQLSV\obj\Debug\DoAnQLSV.exe
+C:\Users\Lenovo\Source\Repos\DoAnQLSV_Windows-form\DoAnQLSV\obj\Debug\DoAnQLSV.pdb
