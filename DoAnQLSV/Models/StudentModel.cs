@@ -5,10 +5,10 @@ using System.Linq;
 
 namespace DoAnQLSV.Models
 {
-    public partial class Model1 : DbContext
+    public partial class StudentModel : DbContext
     {
-        public Model1()
-            : base("name=StudentModel")
+        public StudentModel()
+            : base("name=StudentModel1")
         {
         }
 

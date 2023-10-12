@@ -12,9 +12,15 @@ namespace DoAnQLSV.GUI
 {
     public partial class FrmGiangVien : Form
     {
+        // để truyền mã giảng viên từ form đăng nhập
+        private string Ma;
         public FrmGiangVien()
         {
             InitializeComponent();
+        }
+        public FrmGiangVien(string s) : this()
+        {
+            Ma = s;
         }
     }
 }

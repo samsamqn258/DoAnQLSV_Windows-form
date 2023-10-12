@@ -91,14 +91,17 @@
     <Compile Include="Models\KHOA.cs" />
     <Compile Include="Models\LOPMONHOC.cs" />
     <Compile Include="Models\LOPQUANLI.cs" />
-    <Compile Include="Models\Model1.cs" />
     <Compile Include="Models\MONHOC.cs" />
     <Compile Include="Models\NGUOIDUNG.cs" />
     <Compile Include="Models\SINHVIEN.cs" />
+    <Compile Include="Models\StudentModel.cs" />
     <Compile Include="Models\sysdiagram.cs" />
     <Compile Include="Models\THOIKHOABIEU.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="GUI\FrmDangNhap.resx">
+      <DependentUpon>FrmDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="GUI\FrmSinhVien.resx">
       <DependentUpon>FrmSinhVien.cs</DependentUpon>
     </EmbeddedResource>
@@ -128,6 +131,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="image\Logohutech.png" />
+    <Content Include="image\user.png" />
+    <None Include="Resources\user.png" />
+    <None Include="Resources\hinh-nen-xanh-duong-4k_092909557.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
