@@ -17,7 +17,7 @@ namespace DoAnQLSV
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmSinhVien());
+            Application.Run(new FrmDangNhap());
         }
     }
 }

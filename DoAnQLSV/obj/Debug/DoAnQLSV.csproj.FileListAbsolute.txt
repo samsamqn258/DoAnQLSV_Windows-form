@@ -13,3 +13,4 @@ C:\Users\Lenovo\Source\Repos\DoAnQLSV_Windows-form\DoAnQLSV\bin\Debug\EntityFram
 C:\Users\Lenovo\Source\Repos\DoAnQLSV_Windows-form\DoAnQLSV\obj\Debug\DoAnQLSV.csproj.CopyComplete
 C:\Users\Lenovo\Source\Repos\DoAnQLSV_Windows-form\DoAnQLSV\obj\Debug\DoAnQLSV.exe
 C:\Users\Lenovo\Source\Repos\DoAnQLSV_Windows-form\DoAnQLSV\obj\Debug\DoAnQLSV.pdb
+C:\Users\Lenovo\source\repos\DoAnQLSV_Windows-form\DoAnQLSV\obj\Debug\DoAnQLSV.GUI.FrmDangNhap.resources
