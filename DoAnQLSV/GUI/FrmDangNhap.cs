@@ -65,11 +65,10 @@ namespace DoAnQLSV.GUI
 
                     }
                     // sinh viên bằng null tức đó là giảng viên
-                    else if (sinhvien == null)
+                    else if (sinhvien == null )
                     {
                         GIANGVIEN giangvien;
-                        giangvien = studentmodel.GIANGVIENs.FirstOrDefault(p => p.MaGiangVien == nguoidung.MaGiangVien);
-
+                        giangvien = studentmodel.GIANGVIENs.FirstOrDefault(p => p.MaGiangVien == nguoidung.MaGiangVien );
                         Ma = nguoidung.MaGiangVien.Trim();
                         FrmGiangVien frmGiangVien = new FrmGiangVien(Ma);
                         frmGiangVien.ShowDialog();

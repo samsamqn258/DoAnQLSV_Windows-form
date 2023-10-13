@@ -63,11 +63,11 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 28F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            this.label1.Location = new System.Drawing.Point(409, 9);
+            this.label1.Location = new System.Drawing.Point(538, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(509, 64);
+            this.label1.Size = new System.Drawing.Size(275, 64);
             this.label1.TabIndex = 2;
-            this.label1.Text = "Quản Lý Sinh Viên";
+            this.label1.Text = "Sinh Viên";
             // 
             // pictureBox1
             // 

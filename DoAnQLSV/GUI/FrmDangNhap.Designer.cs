@@ -73,7 +73,6 @@
             this.txtMatKhau.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.txtMatKhau.Location = new System.Drawing.Point(256, 250);
             this.txtMatKhau.Name = "txtMatKhau";
-            this.txtMatKhau.PasswordChar = '*';
             this.txtMatKhau.Size = new System.Drawing.Size(279, 26);
             this.txtMatKhau.TabIndex = 3;
             // 
