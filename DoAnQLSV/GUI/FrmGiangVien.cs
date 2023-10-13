@@ -58,6 +58,7 @@ namespace DoAnQLSV.GUI
                 txtGioiTinh.Text = gv.GioiTinh.ToString();
                 txtSDT.Text = gv.SoDienThoai.ToString();
                 txtChucVu.Text = gv.ChucVu.ToString();
+                ///
             }
             else
             {
