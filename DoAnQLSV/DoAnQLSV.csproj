@@ -102,6 +102,9 @@
     <EmbeddedResource Include="GUI\FrmDangNhap.resx">
       <DependentUpon>FrmDangNhap.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmGiangVien.resx">
+      <DependentUpon>FrmGiangVien.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="GUI\FrmSinhVien.resx">
       <DependentUpon>FrmSinhVien.cs</DependentUpon>
     </EmbeddedResource>
@@ -131,6 +134,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="image\Logohutech.png" />
+    <Content Include="image\user %281%29.png" />
     <Content Include="image\user.png" />
     <None Include="Resources\user.png" />
     <None Include="Resources\hinh-nen-xanh-duong-4k_092909557.jpg" />

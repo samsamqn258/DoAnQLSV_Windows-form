@@ -14,3 +14,4 @@ C:\Users\Lenovo\Source\Repos\DoAnQLSV_Windows-form\DoAnQLSV\obj\Debug\DoAnQLSV.c
 C:\Users\Lenovo\Source\Repos\DoAnQLSV_Windows-form\DoAnQLSV\obj\Debug\DoAnQLSV.exe
 C:\Users\Lenovo\Source\Repos\DoAnQLSV_Windows-form\DoAnQLSV\obj\Debug\DoAnQLSV.pdb
 C:\Users\Lenovo\source\repos\DoAnQLSV_Windows-form\DoAnQLSV\obj\Debug\DoAnQLSV.GUI.FrmDangNhap.resources
+C:\Users\Lenovo\source\repos\DoAnQLSV_Windows-form\DoAnQLSV\obj\Debug\DoAnQLSV.GUI.FrmGiangVien.resources
